@@ -1,7 +1,7 @@
 body {
 	background-image: url(../Images/Flowers2.jpg);
 	color: #B0C4DE;
-	border: 1px solid #6495ED;
+	border: 1px dashed #B0C4DE;
 	padding:30px;
 	margin: 40px;
 	font-family: "Book Antiqua";
@@ -9,7 +9,10 @@ body {
 
 hr {
 	border-color: #B0C4DE;
+	border-style: dashed;
+	border-width: 1px;
 }
+
 
 h1 {
 	font-style: italic;

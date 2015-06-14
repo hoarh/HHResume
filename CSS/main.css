@@ -1,8 +1,7 @@
 body {
 	background-image: url(../Images/Flowers2.jpg);
 	color: #B0C4DE;
-	border: 1px solid #B0C4DE;
-	border-style: dashed;
+	border: 1px dashed #B0C4DE;
 	padding:40px;
 	margin: 40px;
 }
