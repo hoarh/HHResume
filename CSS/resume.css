@@ -1,9 +1,14 @@
 body {
-	background-color: gray;
-	color: white;
-	border: 1px solid white;
-	padding:40px;
+	background-image: url(../Images/Flowers2.jpg);
+	color: #6495ED;
+	border: 1px solid #6495ED;
+	padding:30px;
 	margin: 40px;
+	font-family: "Book Antiqua";
+}
+
+hr {
+	border-color: #6495ED;
 }
 
 h1 {
@@ -16,23 +21,24 @@ nav {
 }
 
 a{
-	color:green;
+	color:#778899;
 }
 
+h4 {
+	text-align: center;
+	line-height: 0.5;
+}
 h2 {
-	
-}
-
-p {
-}
-
-h3 {
 	text-transform: uppercase;
-	font-size: 10px;
+	font-family: 	
 }
+
+h5 {
+	line-height: 0.5;
+}
+
 
 li {
-	padding:10px;
 }
 
 footer {
