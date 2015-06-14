@@ -1,9 +1,15 @@
 body {
-	background-color: gray;
-	color: white;
-	border: 1px solid white;
+	background-image: url(../Images/Flowers2.jpg);
+	color: #B0C4DE;
+	border: 1px solid #B0C4DE;
+	border-style: dashed;
 	padding:40px;
 	margin: 40px;
+}
+
+img {
+	width:260px;
+	height:260px;
 }
 
 h1 {
@@ -16,11 +22,17 @@ nav {
 }
 
 a{
-	color:#D3D3D3;
+	color:#778899;
+}
+
+hr {
+	border-color: #B0C4DE;
+	border-style: dashed;
+	border-width: 1px;
 }
 
 h2 {
-	
+	text-align: center;
 }
 
 p {

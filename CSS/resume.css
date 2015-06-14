@@ -1,6 +1,6 @@
 body {
 	background-image: url(../Images/Flowers2.jpg);
-	color: #6495ED;
+	color: #B0C4DE;
 	border: 1px solid #6495ED;
 	padding:30px;
 	margin: 40px;
@@ -8,7 +8,7 @@ body {
 }
 
 hr {
-	border-color: #6495ED;
+	border-color: #B0C4DE;
 }
 
 h1 {
@@ -28,19 +28,16 @@ h4 {
 	text-align: center;
 	line-height: 0.5;
 }
+
 h2 {
 	text-transform: uppercase;
-	font-family: 	
+	font-size: 20px;
 }
-
-h5 {
-	line-height: 0.5;
-}
-
 
 li {
+	line-height: 1.0;
 }
 
-footer {
-	text-align:center;
+p {
+	line-height: 0.3;
 }
